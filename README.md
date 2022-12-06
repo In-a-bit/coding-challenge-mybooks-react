@@ -6,6 +6,8 @@ We would like to ask you to complete this relatively small project to help us un
 
 Please see this is less then a rigid test, and more of an opportunity to express yourself and show your love for coding.
 
+This exercise is also available online on our [Github site](https://github.com/In-a-bit/coding-challenge-mybooks-react/)
+
 ## Specs
 
 Please create a books favorites organizer system.
