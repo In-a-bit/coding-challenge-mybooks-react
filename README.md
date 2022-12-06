@@ -17,7 +17,7 @@ Please create a books favorites organizer system.
 * **Login screen** that does a fake login
   * No authentication needed. The user is transferred to the next page after login
 * Books list screen
-  * **Book list** - The list is fetched from any free **books api** on the web. Select one the fits you best. Links to some free resources are given below.
+  * **Book list** - The list is fetched from any free **books api** on the web. Select one that fits you best. Links to some free resources are given below.
   * **Book item** - Each book will be presented in a box detailing some of the book main **details**.
   * **Pagination** controls that will allow to fetch **next/previous** page of books
   * **Show-More** - Each book will have a show-more button that will **transfer or open another** window showing the book **details in depth**.
