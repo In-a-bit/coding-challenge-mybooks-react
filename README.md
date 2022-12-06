@@ -26,7 +26,7 @@ Please create a books favorites organizer system.
 ## What to do
 
 * Please use React and any other libraries you see fit needed for that tasks. (State managements, routing..)
-* Please try to host the app somewhere (Ex github pages, netlify..) where it will be easily be seen and played from the start.
+* Please try to host the app somewhere (Ex github pages, netlify..) where it will easily be seen and played from the start.
 * Where needed, please document your application
 
 ## Documentation
