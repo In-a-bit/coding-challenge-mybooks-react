@@ -1,6 +1,6 @@
 # My Books Web Application - Coding Challenge
 
-Hello! We are really excited getting to know you, and would like also to know how it is to be working with you. 
+Hello! We are really excited getting to know you, and would like also to know how it is to be working with you.
 
 We would like to ask you to complete this relatively small project to help us understand how you approach, design and express your solutions.
 
@@ -12,7 +12,7 @@ This exercise is also available online on our [Github site](https://github.com/I
 
 Please create a books favorites organizer system.
 
-* The system should consist only of **frontend web application**. 
+* The system should consist only of **frontend web application**.
   * If data is needed to be saved, the browser facilities should be used instead of a backend app.
 * **Login screen** that does a fake login
   * No authentication needed. The user is transferred to the next page after login
@@ -21,7 +21,7 @@ Please create a books favorites organizer system.
   * **Book item** - Each book will be presented in a box detailing some of the book main **details**.
   * **Pagination** controls that will allow to fetch **next/previous** page of books
   * **Show-More** - Each book will have a show-more button that will **transfer or open another** window showing the book **details in depth**.
-  * **Favorite** - Each book will have a **favorite-toggle button** that will **save** the book to the user favorites. If the book is already in the faviroties list, then it need to be **shown as such**.
+  * **Favorite** - Each book will have a **favorite-toggle button** that will **save** the book to the user favorites. If the book is already in the favorites list, then it need to be **shown as such**.
 
 ## What to do
 
@@ -32,7 +32,7 @@ Please create a books favorites organizer system.
 ## Documentation
 
 Please write a README that details the application and reasons behind main choices done regarding the code.
- 
+
 ## How we review
 
 Mainly, those aspects of coding will be assessed:
