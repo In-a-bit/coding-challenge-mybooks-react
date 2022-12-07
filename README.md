@@ -1,6 +1,6 @@
 # My Books Web Application - Coding Challenge
 
-Hello! We are really exited getting to know you, and would like also to know how it is to be working with you. 
+Hello! We are really excited getting to know you, and would like also to know how it is to be working with you. 
 
 We would like to ask you to complete this relatively small project to help us understand how you approach, design and express your solutions.
 
